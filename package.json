@@ -1,0 +1,13 @@
+{
+  "name": "node-telegram-media-downloader",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "keywords": ["telegram", "media", "downloader"],
+  "author": "Will.H",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mime-db": "^1.53.0",
+    "telegram": "^2.25.15"
+  }
+}
